@@ -7,4 +7,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado e
 - 🌐 **Front-end:** HTML, CSS, JavaScript
 - ☁️ **Infra & Cloud:** Git, Windows Server, Linux, Google Cloud (GCP)
 
-Fique à vontade para explorar meus repositórios fixados abaixo, onde construo desde bots financeiros até scripts de otimização de SO!
+Fique à vontade para explorar meus repositórios fixados abaixo
