@@ -1,10 +1,20 @@
-### Olá! Eu sou Alyson Araújo 💻
+Hi there! I'm Alyson Araújo 👋
+Software Developer | Analysis and Systems Development Student
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em automação, infraestrutura e resolução de problemas. 
+I'm a developer focused on process automation, Artificial Intelligence, and cybersecurity. Currently, I'm building solutions that connect backend logic with AI APIs to solve real-world security and financial problems.
 
-**Minhas principais ferramentas:**
-- 🐍 **Back-end & Automação:** Python, C/C++
-- 🌐 **Front-end:** HTML, CSS, JavaScript
-- ☁️ **Infra & Cloud:** Git, Windows Server, Linux, Google Cloud (GCP)
+🛠️ Technical Toolbox
+Languages: Python (Automation & Bots), C (Fundamentals), JavaScript.
 
-Fique à vontade para explorar meus repositórios fixados abaixo:
+Web & Integrations: HTML5, CSS3, Firebase (Auth & NoSQL), REST APIs.
+
+AI & Security: Gemini API (Google AI Studio), Gmail API, Telegram Bot API.
+
+Infrastructure: Git/GitHub, Linux, Windows Server.
+
+📈 Featured Projects
+Freelance Software Developer: Developing responsive web systems for local businesses and system optimization scripts.
+
+Terminal Financeiro Bot: Python-based automation for personal finance management via Telegram.
+
+Security Alert Bot: A security monitoring system that uses AI to analyze email threat levels.
