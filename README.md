@@ -1,4 +1,5 @@
 Hi there! I'm Alyson Araújo 👋
+
 Software Developer | Analysis and Systems Development Student
 
 I'm a developer focused on process automation, Artificial Intelligence, and cybersecurity. Currently, I'm building solutions that connect backend logic with AI APIs to solve real-world security and financial problems.
