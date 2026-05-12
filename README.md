@@ -16,6 +16,3 @@ Infrastructure: Git/GitHub, Linux, Windows Server.
 📈 Featured Projects
 Freelance Software Developer: Developing responsive web systems for local businesses and system optimization scripts.
 
-Terminal Financeiro Bot: Python-based automation for personal finance management via Telegram.
-
-Security Alert Bot: A security monitoring system that uses AI to analyze email threat levels.
