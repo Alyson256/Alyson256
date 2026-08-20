@@ -1,16 +1,56 @@
-Hi there! I'm Alyson Araújo 👋
+# Alyson Araújo
 
-Software Developer | Analysis and Systems Development Student
+**Desenvolvedor de Software | Estudante de ADS | Foco em Inteligência, Segurança e Otimização**
 
-I'm a developer focused on process automation, Artificial Intelligence, and cybersecurity. Currently, I'm building solutions that connect backend logic with AI APIs to solve real-world security and financial problems.
+Sou um desenvolvedor com foco na criação de soluções que integram automação de processos, arquitetura de sistemas e cibersegurança. Busco aplicar a tecnologia como uma ferramenta estratégica no âmbito da segurança pública e inteligência investigativa, alinhando o desenvolvimento de software ao conhecimento da legislação brasileira e diretrizes de compliance (como a LGPD).
 
-🛠️ Technical Toolbox
-Languages: Python (Automation & Bots), C (Fundamentals) and JavaScript.
+Seja na otimização de sistemas operacionais em nível de kernel ou na arquitetura de plataformas web, meu objetivo é desenvolver ecossistemas resilientes, de alta performance e com superfície de ataque controlada.
 
-Web & Integrations: HTML5, CSS3, Firebase (Auth & NoSQL), REST APIs.
+---
 
-AI & Security: Gemini API (Google AI Studio), Gmail API, Telegram Bot API.
+### Tech Stack
 
-Infrastructure: Git/GitHub, Linux, Windows Server.
+#### Linguagens de Programação
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
+#### Cloud & Bancos de Dados
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
 
+#### Web, Front-end & Back-end
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+
+#### Infraestrutura, OS & IA
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Projetos em Destaque
+
+#### [Vantage-OS](https://github.com/Alyson256/Vantege-OS) & Web Showcase
+Otimizador de pós-instalação para Windows 11 com interface gráfica e scripts de limpeza de sistema. O projeto demonstra capacidade de manipulação de sistema operacional, automação de tarefas e otimização de performance.
+* **Status:** V2.0 Lançada (Interface e Auto-updater).
+* **Ecossistema:** Desenvolvimento do site de showcase do projeto em andamento, explorando a integração de React, Node.js e Django na arquitetura front/back-end.
+
+#### [Projeto Rosa Mística (Project-web)](https://github.com/Alyson256/Project-web)
+Vitrine Digital O2O (Online-to-Offline) desenvolvida para uma cooperativa de artesanato local. 
+* **Foco em Segurança e Compliance:** Arquitetado sob a premissa de *LGPD by Design* e redução da superfície de ataque. O sistema opera sem a coleta ou armazenamento desnecessário de dados pessoais sensíveis, mitigando riscos de conformidade.
+
+---
+<div align="left">
+  <a href="mailto:contact.alysonaraujo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/alyson-araújo-9a006a271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
