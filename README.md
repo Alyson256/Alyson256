@@ -1,4 +1,4 @@
-# Alyson Araújo
+# Alyson Araújo 
 
 **Desenvolvedor de Software | Estudante de ADS | Foco em Inteligência, Segurança e Otimização**
 
@@ -25,25 +25,28 @@ Seja na otimização de sistemas operacionais em nível de kernel ou na arquitet
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css&logoColor=white)
 
 #### Infraestrutura, OS & IA
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Projetos em Destaque
+### Projetos em Destaque 📎
 
-#### [Vantage-OS](https://github.com/Alyson256/Vantege-OS) & Web Showcase
-Otimizador de pós-instalação para Windows 11 com interface gráfica e scripts de limpeza de sistema. O projeto demonstra capacidade de manipulação de sistema operacional, automação de tarefas e otimização de performance.
-* **Status:** V2.0 Lançada (Interface e Auto-updater).
+#### [Vantage-OS](https://github.com/Alyson256/Vantege-OS)
+Otimizador de pós-instalação para Windows 11 com interface gráfica e scripts de limpeza de sistema.
+* **Status:** Finalizando o front-end, realizando a interligação dos dados com o backend e atualizando a documentação.
 * **Ecossistema:** Desenvolvimento do site de showcase do projeto em andamento, explorando a integração de React, Node.js e Django na arquitetura front/back-end.
 
 #### [Projeto Rosa Mística (Project-web)](https://github.com/Alyson256/Project-web)
 Vitrine Digital O2O (Online-to-Offline) desenvolvida para uma cooperativa de artesanato local. 
-* **Foco em Segurança e Compliance:** Arquitetado sob a premissa de *LGPD by Design* e redução da superfície de ataque. O sistema opera sem a coleta ou armazenamento desnecessário de dados pessoais sensíveis, mitigando riscos de conformidade.
+* **Status:** Em desenvolvimento (front-end e levantamento de requisitos).
+* **Foco em Segurança e Compliance:** Arquitetado sob a premissa de *LGPD by Design* e redução da superfície de ataque, mitigando riscos de conformidade e proteção de dados.
 
 ---
 <div align="left">
