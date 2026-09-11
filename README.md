@@ -43,7 +43,7 @@ Otimizador de pós-instalação para Windows 11 com interface gráfica e scripts
 * **Status:** Finalizando o front-end, realizando a interligação dos dados com o backend e atualizando a documentação.
 * **Ecossistema:** Desenvolvimento do site de showcase do projeto em andamento, explorando a integração de React, Node.js e Django na arquitetura front/back-end.
 
-#### [Projeto Rosa Mística (Project-web)](https://github.com/Alyson256/Project-web)
+#### [(Project-web)](https://github.com/Alyson256/Project-web)
 Vitrine Digital O2O (Online-to-Offline) desenvolvida para uma cooperativa de artesanato local. 
 * **Status:** Em desenvolvimento (front-end e levantamento de requisitos).
 * **Foco em Segurança e Compliance:** Arquitetado sob a premissa de *LGPD by Design* e redução da superfície de ataque, mitigando riscos de conformidade e proteção de dados.
