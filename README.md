@@ -59,10 +59,10 @@ Seja na otimização de sistemas operacionais em nível de kernel ou na arquitet
 
 ### Projetos em Destaque
 
-#### [Vantage-OS](https://github.com/Alyson256/Vantege-OS)
+#### [Bitshift](https://github.com/Alyson256/Vantege-OS)
 Otimizador de pós-instalação para Windows 10/11 com interface gráfica nativa e scripts de limpeza de sistema.
 - **Status:** Migrando o front-end para uma stack nativa (WPF/.NET), com foco em baixo consumo de recursos, e integrando a telemetria de hardware ao backend.
-- **Ecossistema:** Desenvolvimento do site de showcase do projeto em andamento, explorando a integração de React, Node.js e Django na arquitetura front/back-end.
+- testes de debug em andamento
 
 #### [Project-web (Potengi)](https://github.com/Alyson256/Project-web)
 Vitrine Digital O2O (Online-to-Offline) desenvolvida para uma cooperativa de artesanato local.
